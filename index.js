@@ -58,3 +58,4 @@ function solvePolynomial(filename) {
 
 // Run the solver with the JSON test case
 solvePolynomial('testcase.json');
+solvePolynomial('testcase2.json');
