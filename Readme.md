@@ -84,10 +84,10 @@ Print the secret constant term \( c \) for both test cases simultaneously.
 
 ```
 For Test Case 1:
-The secret constant term (c) is: <value>
+The secret constant term (c) is: 3
 
 For Test Case 2:
-The secret constant term (c) is: <value>
+The secret constant term (c) is: 79836264046592
 ```
 
 ---
